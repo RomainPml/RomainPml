@@ -4,7 +4,7 @@ Software engineer who enjoys building products from scratch — mobile apps, web
 
 ## What I'm working on
 
-**[Finwise](https://wallet-simulator.com)** — Portfolio simulator for French investors. Browse ETFs, crypto & commodities, build multi-asset portfolios, and backtest with real historical data. Built with Next.js, Supabase, and Upstash Redis.
+**[Wallet simulator](https://wallet-simulator.com)** — Portfolio simulator for French investors. Browse ETFs, crypto & commodities, build multi-asset portfolios, and backtest with real historical data. Built with Next.js, Supabase, and Upstash Redis.
 
 **[Crux](https://github.com/romainpml/crux-mobile-app)** — A Wordle-style daily word game in French with leagues and competitive rankings. Monorepo with a Fastify API, Expo/React Native mobile app, and shared Zod contracts.
 
